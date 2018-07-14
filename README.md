@@ -10,5 +10,6 @@ A. Building seq2seq models with Tensorflow (v1.0.0)
 
 B. Building seq2seq models with PyTorch (v0.3.1)
 
-* PyTorch-01: Sutskever et al. (2014)
-* PyTorch-02: Luong et al. (2016)
+* PyTorch-01: Sutskever et al. (2014) (1-by-1 training)
+* PyTorch-02: Luong et al. (2016) (1-by-1 training)
+* PyTorch-03: Luong et al. (2016) (batching)
