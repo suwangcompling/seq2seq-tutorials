@@ -15,3 +15,7 @@ B. Building seq2seq models with PyTorch (v0.3.1)
   * Stacking
   * Residual links
   * Attention (Bahdanau or Luong)
+* PyTorch-seq2seq-mscoco* (data = MSCOCO)
+  * Base: greedy search.
+  * -beam: beam search.
+* PyTorch-seq2seq-transformer: Vaswani et al. (2017)
