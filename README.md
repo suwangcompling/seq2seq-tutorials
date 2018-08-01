@@ -10,12 +10,12 @@ A. Building seq2seq models with Tensorflow (v1.0.0)
 
 B. Building seq2seq models with PyTorch (v0.3.1)
 
-* PyTorch-seq2seq-full-tutorial
+* PyTorch-seq2seq-full-tutorial: Prakash et al. (2016), with toy data.
   * Bidirectional
   * Stacking
   * Residual links
   * Attention (Bahdanau or Luong)
-* PyTorch-seq2seq-mscoco* (data = MSCOCO)
+* PyTorch-seq2seq-mscoco* (data = MSCOCO): Prakash et al. (2016)
   * Base: greedy search.
   * -beam: beam search.
 * PyTorch-seq2seq-transformer: Vaswani et al. (2017)
