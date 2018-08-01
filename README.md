@@ -19,3 +19,6 @@ B. Building seq2seq models with PyTorch (v0.3.1)
   * Base: greedy search.
   * -beam: beam search.
 * PyTorch-seq2seq-transformer: Vaswani et al. (2017)
+
+NB: the PyTorch code uses a few helpers, which are stored in utils.py and seq2seq_data_loader.py
+NB: to download the data used in the demos, go to https://github.com/iamaaditya/neural-paraphrase-generation/tree/dev/data, create a dir "mscoco/", and put the following files under it: train_source.txt, train_target.txt, test_source.txt, test_target.txt.
